@@ -145,5 +145,5 @@
         </element>
        
     </elements>
-    <help>Monitor EMC VNX series SAN capacity using EMC Navisphere CLI.</help>
+    <help>Monitor EMC VNX series Metrics broken down by Raid Group</help>
 </uptime>
